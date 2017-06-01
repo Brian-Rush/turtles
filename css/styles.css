@@ -1,0 +1,17 @@
+img {
+  width: 100%;
+}
+
+.float-right {
+  float: right;
+}
+
+.carousel-inner {
+  height: 25%;
+  max-height:25%;
+  overflow: hidden;
+}
+
+.carousel-control {
+top: 0px;
+}
